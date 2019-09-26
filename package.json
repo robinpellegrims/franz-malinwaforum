@@ -1,0 +1,13 @@
+{
+  "id": "malinwaforum",
+  "name": "Malinwaforum",
+  "version": "1.0.0",
+  "description": "Malinwaforum",
+  "main": "index.js",
+  "author": "robinpel",
+  "license": "MIT",
+  "repository": "https://github.com/RobinPel/franz-malinwaforum.git",
+  "config": {
+    "serviceURL": "https://malinwaforum.be/search.php?search_id=unreadposts"
+  }
+}

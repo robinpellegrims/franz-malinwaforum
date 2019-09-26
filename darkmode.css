@@ -1,0 +1,17 @@
+html, body, #header-subsilver, #wrap, .row, li, ul.topiclist li, li.header dt, li.header dd, .navbar, .post, .content, .postbody, .signature, .panel, a, blockquote, #subsilver-nav-topic, .postprofile strong, textarea {
+    background-color: #202124 !important;
+    color: white !important;
+    background-image: none;
+}
+
+.headerbar {
+    display: none;
+}
+
+a {
+    font-weight: bold;
+}
+
+li.row:hover {
+    background-color: black;
+}
